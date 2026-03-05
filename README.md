@@ -68,7 +68,7 @@ O painel admin deve permitir:
 
 Cada notificação deve possuir um nível:
 
-- Informação
+- Informacao
 - Alerta
 - Crítico
 
